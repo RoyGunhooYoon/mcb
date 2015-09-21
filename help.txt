@@ -1,0 +1,13 @@
+
+delete <keyword>: removes keyword and its content.
+
+list: List all the keyword and overview of content stored in database.
+
+load <keyword>: Loads <keyword> from database.
+
+save <keyword>: Saves current clipboard to <keyword>.
+
+show <keyword>: Display full content saved on keyword.
+
+quit : exits program.
+
